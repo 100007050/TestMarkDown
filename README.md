@@ -12,3 +12,13 @@ __Escribiendo en Negrita 2__
 
 __Mi nombre es *Sergio* aula 301__
 
+1. Lista ordenada 1
+2. Lista ordenada 2
+3. Lista ordenada 3
+
+* Lista desordenada 1
+* Lista desordenada 2
+* Lista desordenada 3 
+
++ Lista desordenada plus 
++ Lista desordenada plus 
