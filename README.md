@@ -29,4 +29,4 @@ __Mi nombre es *Sergio* aula 301__
   </head>
 </html>
 
-(![GitHub](https://user-images.githubusercontent.com/113420594/191206245-1cdc560d-8246-41cc-a069-e63ae7665bde.jpg) "Entre comillas"
+![GitHub](https://user-images.githubusercontent.com/113420594/191206245-1cdc560d-8246-41cc-a069-e63ae7665bde.jpg) "Logo GitHub"
