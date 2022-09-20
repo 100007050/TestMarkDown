@@ -23,10 +23,10 @@ __Mi nombre es *Sergio* aula 301__
 + Lista desordenada plus 
 + Lista desordenada plus 
 
-'''html
+```html
 <html>
   <head>
   </head>
 </html>
-
+```
 ![GitHub](https://user-images.githubusercontent.com/113420594/191206245-1cdc560d-8246-41cc-a069-e63ae7665bde.jpg) "Logo GitHub"
