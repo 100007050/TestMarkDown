@@ -30,3 +30,8 @@ __Mi nombre es *Sergio* aula 301__
 </html>
 ```
 ![GitHub](https://user-images.githubusercontent.com/113420594/191206245-1cdc560d-8246-41cc-a069-e63ae7665bde.jpg) "Logo GitHub"
+
+| Encabezado1 | | Encabezado2 | | Encabezado3 | 
+| ----------- | | :---------: | | ----------: |
+| Item 1 | | Palo | 200 |
+| Item 2 | | Piedra | 440 |
